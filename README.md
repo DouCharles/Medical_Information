@@ -28,4 +28,5 @@
 ![sick_info](/introduce_pics/sick_info.png)
 
 
-
+##### 兩人一起製作
+個人主要負責MySQL及Dart之間的串接及整體APP之設計方向
